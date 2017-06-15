@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Book App</string>
+    <string name="hint">Book Title...</string>
+    <string name="search">Search</string>
+    <string name="noResult">No Result Found</string>
+    <string name="titletext">13 Reasons Why</string>
+    <string name="authortext">Jay Asher</string>
+    <string name="searchBooks">Name of Book</string>
+    <string name="searchButton">Search</string>
+    <string name="newActivity">Search Results</string>
+    <string name="emptyField">Empty Field</string>
+</resources>
